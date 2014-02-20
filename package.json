@@ -1,0 +1,17 @@
+{
+  "name": "njpatel-pure-grids",
+  "description": "A small CSS module for responsive grids that you can use in every web project. http://purecss.io/grids",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "grid",
+    "grids",
+    "css",
+    "yui"
+  ],
+  "styles": [
+    "grids.css"
+  ],
+  "dependencies": {},
+  "license": "BSD"
+}
